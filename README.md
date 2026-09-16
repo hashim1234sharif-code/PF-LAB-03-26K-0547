@@ -28,9 +28,9 @@ In this repository my task is to explain some markdown headings, C keywords, obj
 You can quote a text in any .md file using > symbol 
 For example, >Hello
 
-Single inline code is `#include <stdio.h>
+Single inline code is `#include <stdio.h>`
 
 ## 3 completed tasks
-Made a scratch program - [x]
-Solved parking problem using psuedocode - [x]
-Prepared for FE quiz - [x]
+- [x] Made a scratch program 
+- [x] Solved parking problem using psuedocode 
+- [x] Prepared for FE quiz
