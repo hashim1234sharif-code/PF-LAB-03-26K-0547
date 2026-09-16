@@ -26,7 +26,8 @@ In this repository my task is to explain some markdown headings, C keywords, obj
 ### This is a smallest markdown heading
 
 You can quote a text in any .md file using > symbol 
-For example, >Hello
+For example, 
+>Hello
 
 Single inline code is `#include <stdio.h>`
 
