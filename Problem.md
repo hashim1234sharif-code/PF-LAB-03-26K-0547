@@ -2,9 +2,12 @@
 - Student info
   START
 
-  INT age = 19
+  INT age = 19 
+  
   FLOAT GPA = 4
+  
   CHAR grade = A+
+  
   STRING name = Hashim
   
   Display student name
