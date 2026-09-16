@@ -17,10 +17,10 @@ In this repository my task is to explain some markdown headings, C keywords, obj
 5. How to hide important data in our code using gitignore
 
 ## C topics in Lab 03
--How to setup Dev C
--Basic structure of C program 
--Compiling and executing finished code
--Compiling C program without the use of IDE
+- How to setup Dev C
+- Basic structure of C program 
+- Compiling and executing finished code
+- Compiling C program without the use of IDE
 
 ## Markdown Heading, quote and inline code example
 ### This is a smallest markdown heading
@@ -31,6 +31,6 @@ For example, >Hello
 Single inline code is `#include <stdio.h>
 
 ## 3 completed tasks
-Made a scratch program -[x]
-Solved parking problem using psuedocode -[x]
-Prepared for FE quiz -[x]
+Made a scratch program - [x]
+Solved parking problem using psuedocode - [x]
+Prepared for FE quiz - [x]
